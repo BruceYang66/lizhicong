@@ -61,9 +61,9 @@ ol, ul {
     color:#555;
 }
 .resumeBody h1 {
-    font-size:32px;
-    height:42px;
-    line-height:1em;
+    font-size:1.3em;
+    font-weight: bolder;
+    line-height:1.3em;
 }
 .resumeBody .headerImg {
     padding:5px;
@@ -78,14 +78,14 @@ ol, ul {
     font-weight:bold;
 }
 .resumeBody .details dt {
-    background:url('http://img03.zhaopin.cn/2012/img/my/v5/lookResumebg.jpg') no-repeat 5px 0;
+    background:url('http://img03.zhaopin.cn/2012/img/my/v5/lookResumebg.jpg') no-repeat 8px 0;
 }
 .resumeBody .details dt h5 {
-    height:26px;
-    line-height:26px;
+  /*  height:26px;
+    line-height:26px;*/
     color:#315AAA;
     text-indent:20px;
-    font-size:14px;
+/*    font-size:14px;*/
 }
 .resumeBody .summary, .resumeBody .details dd {
     padding-left:10px;
